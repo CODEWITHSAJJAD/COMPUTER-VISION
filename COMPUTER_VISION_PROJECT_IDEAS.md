@@ -1,9 +1,9 @@
 # COMPUTER-VISION
 
 # Object Detection and Tracking
-Custom Object Detection
-Traffic Sign Detection
-Object Tracking
+1.Custom Object Detection
+2.Traffic Sign Detection
+3.Object Tracking
 Obstacle Avoiding Robot
 Object Tracking with Jetson Nano Robot
 Pistol Detection
