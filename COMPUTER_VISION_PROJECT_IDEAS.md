@@ -7,13 +7,19 @@
 
 3.Object Tracking
 
-Obstacle Avoiding Robot
-Object Tracking with Jetson Nano Robot
-Pistol Detection
-Intruder Detection
-Suspicious Luggage Detection
-License Plate Recognition
-Multiple Hand Gesture Control
+4.Obstacle Avoiding Robot
+
+5.Object Tracking with Jetson Nano Robot
+
+6.Pistol Detection
+
+7.Intruder Detection
+
+8.Suspicious Luggage Detection
+
+9.License Plate Recognition
+
+10.Multiple Hand Gesture Control
 
 # Image Processing and Analysis
 Optical Mark Recognition
